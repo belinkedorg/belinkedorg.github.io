@@ -18,7 +18,7 @@ widget2:
   text: 'We regularly upload our Sunday sermons and preachings, please check them out!'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
-  title: "Church Activities & Events"
+  title: "Events & Activities"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
   text: 'As a church, we are committed to obey the Lord by loving Him and loving our neighbors. Check out what we do as church!'
