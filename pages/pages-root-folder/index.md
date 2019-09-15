@@ -14,12 +14,12 @@ widget1:
   text: "Check out belinked's article and devotional resources from the members of GBCCC church."
 widget2:
   title: "Sermons & Preachings"
-  url: 'http://belinkedorg.github.io/site/info/'
+  url: 'http://belinkedorg.github.io/site/sermons/'
   text: 'We regularly upload our Sunday sermons and preachings, please check them out!'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Events & Activities"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: 'http://belinkedorg.github.io/site/events/'
   image: widget-github-303x182.jpg
   text: 'As a church, we are committed to obey the Lord by loving Him and loving our neighbors. Check out what we do as church!'
 #
