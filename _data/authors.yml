@@ -7,8 +7,24 @@
 # Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
 bqueano: # replace this with your info
   name: "Don"
-  siterole: "webmaster, developer"
+  siterole: "webmaster, developer, content writer"
   uri: http://codepleasure.github.io/
   email: bernarddonqueano@gmail.com
   twitter: "@codepleasure"
+fqueano:
+  name: "Faith"
+  siterole: "designer, administrator, facilitator"
+  email: faith.0313@gmail.com
+aesquivel:
+  name: "Alvin"
+  siterole: "webmaster, developer, content writer"
+  email: ezkie96@gmail.com
+amanay:
+  name: "Arvin"
+  siterole: "content writer, designer, administrator"
+  email:  arvinjerico87@gmail.com
+lmanay:
+  name: "Love Grace"
+  siterole: "designer, content manager"
+  email: lovegrace.andal@deped.gov.ph
 # you can add more authors here
