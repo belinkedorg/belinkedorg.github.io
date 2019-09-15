@@ -8,17 +8,17 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Dailies: Articles & Devotions"
+  title: "Articles & Devotions"
   url: 'http://belinkedorg.github.io/site/blog/'
   image: widget-1-302x182.jpg
   text: "Check out belinked's article and devotional resources from the members of GBCCC church."
 widget2:
-  title: "Weeklies: Sermons & Preachings"
+  title: "Sermons & Preachings"
   url: 'http://belinkedorg.github.io/site/info/'
   text: 'We regularly upload our Sunday sermons and preachings, please check them out!'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
-  title: "Subscribe"
+  title: "Subscribe To Us!"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
   text: 'Be regularly updated! Subscribe to our feeds and get updated with our recent posts.'
