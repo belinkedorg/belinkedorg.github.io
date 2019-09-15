@@ -2,9 +2,16 @@
   url: "/"
   side: left
 
-- title: Statement Of Faith
-  url: "/statement-of-faith/"
+- title: About
+  url: "/about/"
   side: left
+  dropdown:
+  - title: "What is <em>belinked</em>?"
+    url: "/about/info/"
+  - title: "Church's Mission"
+    url: "/about/mission/"
+  - title: "Statement Of Faith"
+    url: "/about/statement-of-faith/"
 
 - title: "Archive"
   url: "/archive/"
