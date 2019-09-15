@@ -3,19 +3,19 @@
   side: left
 
 - title: Statement Of Faith
-  url: "/getting-started/"
+  url: "/statement-of-faith/"
   side: left
 
 - title: "Archive"
-  url: "/design/"
+  url: "/archive/"
   side: left
   dropdown:
   - title: "Articles"
-    url: "/design/grid/"
+    url: "/archive/articles/"
   - title: "Devotions"
-    url: "/design/typography/typography/"
-  - title: "Sermons & Preachings"
-    url: "/design/page/"
+    url: "/archive/devotions/"
+  - title: "Sermons"
+    url: "/archive/sermons/"
 
 - title: "Search"
   url: "/search/"
