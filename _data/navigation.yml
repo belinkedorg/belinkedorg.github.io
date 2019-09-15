@@ -8,8 +8,8 @@
   dropdown:
   - title: "What is <em>belinked</em>?"
     url: "/about/info/"
-  - title: "Church's Mission"
-    url: "/about/mission/"
+  - title: "Mission Statement"
+    url: "/about/mission-statement/"
   - title: "Statement Of Faith"
     url: "/about/statement-of-faith/"
 
