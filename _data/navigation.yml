@@ -6,7 +6,7 @@
   url: "/about/"
   side: left
   dropdown:
-  - title: "What is <em>belinked</em>?"
+  - title: "What is belinked?"
     url: "/about/info/"
   - title: "Mission Statement"
     url: "/about/mission-statement/"
