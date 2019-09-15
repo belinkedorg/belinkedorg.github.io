@@ -11,7 +11,7 @@ widget1:
   title: "Dailies: Articles & Devotions"
   url: 'http://belinkedorg.github.io/site/blog/'
   image: widget-1-302x182.jpg
-  text: 'Check out belinked's article and devotional resources from the members of GBCCC church.'
+  text: "Check out belinked's article and devotional resources from the members of GBCCC church."
 widget2:
   title: "Weeklies: Sermons & Preachings"
   url: 'http://belinkedorg.github.io/site/info/'
